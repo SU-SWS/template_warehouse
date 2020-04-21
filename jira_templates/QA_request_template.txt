@@ -1,0 +1,64 @@
+_*Instructions for using this template:*_
+_These are suggestions for scoping a QA and accessibility effort. Not all sections of this will apply. Please modify as necessary and make suggestions if you'd like to see changes to this template._
+
+h1. Describe the requested QA:
+_Provide a clear and concise description of the QA needs._
+
+Related Jira ticket(s) or PR(s):
+
+h2. Scope
+
+_Is this to check specific work, or for a whole site or release?_
+
+h2. Release version, expected time and date:
+
+_What is the release version, or date and time for this effort?_
+
+h2. Type of QA
+
+_Use this list to identify the type(s) of QA you're requesting. Remove any that do not apply_
+
+h3. Visual
+_How does the rendered output compare to original design?_
+
+h3. UX/Design
+* [Accessibility Checklist for Design|https://docs.google.com/document/d/1jJ7b4LtLuOczLMEg-R13k5faCIRhNgaaRrsOpz3j4Vs/edit?usp=sharing] and
+* [Accessibility Checklist for UX|https://drive.google.com/open?id=1_oGHslDaq3X9jkxeOprbVjZtePgViFxY5Z9opLcz3zI]
+
+h3. Content
+* [Accessibility Checklist for Content Editors|https://drive.google.com/open?id=1aLWZhKQvNpCGJeUpRJjvoJ1yFn87RnhYPYEvs9IcG9U]
+
+h3. Accessibility
+* [Accessibility Checklist for Developers|https://drive.google.com/open?id=1ZXJ9RIUNXsS674ow9j3qJ2g1OAkCjmqMXl0Gs8XHEPQ]
+- Manual testing by Level Access through [SOAP Service Now request|https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=94f4a80edbb5041cb9dc9447db96194a]
+
+h3. Cross-browser
+* [Cross-Browser Checklist for Developers|https://docs.google.com/document/d/1d9OVRSZamQcXeN0pRoqP0bliFjR6_1NXmpLIa3Prerg/edit?usp=sharing]
+
+h3. Regression testing
+_Compare a production site with a test site. Also known as "Linky-Clicky" :D_
+
+h3. User Guide
+_Is the description in the user guide accurate?_
+
+h3. Module Documentation
+_Does the readme.md for the module accurately describe the module and how to use it?_
+
+h3. Other type of QA:
+_Please describe_
+
+h2. Mockups:
+_Provide URL or attach images of related mockups._
+
+h2. Environments
+
+h3. QA Location
+
+_Where do you want this verification to happen? Remove any that do not apply_
+- URL(local, public): https://...
+- Existing pages: _What existing pages need to be checked?_
+- Content to create: _What content needs to be created?_
+
+h3. Tools and techniques to use:
+
+h3. Other information
