@@ -15,10 +15,10 @@ _Add screenshots to help explain the problem.  [Nimbus|https://chrome.google.com
 
 h2. To Reproduce
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+# Go to '...'
+# Click on '....'
+# Scroll down to '....'
+# See error
 
 h2. Expected behavior
 _A clear and concise description of what you expected to happen._
@@ -43,8 +43,7 @@ _This rubric helps the team assess the relative importance of this ticket. If th
 h2. Accessibility Standards Information
 _If this is an accessibility issue, describe the level of violation or issues encountered._
 - HTML Validation: Error, warning, notice
-- WCAG 2.0 A, WCAG 2.0 AA, Section 508
-- Principle & Guideline:
+- WCAG 2.0 A, WCAG 2.0 AA
 
 h2. Device specific information:
 _If this bug is specific to a device, give the specs for that device. Repeat this information if there are multiple devices_
