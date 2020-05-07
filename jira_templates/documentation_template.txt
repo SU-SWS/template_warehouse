@@ -1,0 +1,35 @@
+_*Instructions for using this template:*_
+_These are suggestions for scoping a documentation effort. Not all sections of this will apply. Please modify as necessary and make suggestions if you'd like to see changes to this template._
+
+h1. Describe the requested documentation:
+_Provide a clear and concise description of the documentation needs._
+
+h2. Related Jira ticket(s) or PR(s):
+
+h2. Scope
+This effort is to document:
+* New functionality or process
+* An update to existing functionality or process
+* Other
+
+h2. Release version, expected time and date:
+_When does this need to happen? What is the release version, or date and time for this effort?_
+
+h2.  Document Location
+_Where do you want this documentation to happen? Remove any that do not apply_
+* Site URL: https://...
+* Google Docs: _What's the link to the directory or document?_
+* Confluence: _What section or page in confluence?_
+* ServiceNow: _Where?_
+
+h2. Supporting information
+h3. Similar or related examples
+_Do you have an example of similar documentation, or ideas of how best to represent the information?_
+
+h3. Mockups:
+_Provide URL or attach images of related mockups._
+
+h3. Anyone else to consult or notify?
+* (@mention here)
+
+h2. Other information

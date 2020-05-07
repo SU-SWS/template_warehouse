@@ -30,7 +30,7 @@ h3. Content
 
 h3. Accessibility
 * [Accessibility Checklist for Developers|https://drive.google.com/open?id=1ZXJ9RIUNXsS674ow9j3qJ2g1OAkCjmqMXl0Gs8XHEPQ]
-- Manual testing by Level Access through [SOAP Service Now request|https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=94f4a80edbb5041cb9dc9447db96194a]
+* Manual testing by Level Access through [SOAP Service Now request|https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=94f4a80edbb5041cb9dc9447db96194a]
 
 h3. Cross-browser
 * [Cross-Browser Checklist for Developers|https://docs.google.com/document/d/1d9OVRSZamQcXeN0pRoqP0bliFjR6_1NXmpLIa3Prerg/edit?usp=sharing]
@@ -55,9 +55,9 @@ h2. Environments
 h3. QA Location
 
 _Where do you want this verification to happen? Remove any that do not apply_
-- URL(local, public): https://...
-- Existing pages: _What existing pages need to be checked?_
-- Content to create: _What content needs to be created?_
+* URL(local, public): https://...
+* Existing pages: _What existing pages need to be checked?_
+* Content to create: _What content needs to be created?_
 
 h3. Tools and techniques to use:
 

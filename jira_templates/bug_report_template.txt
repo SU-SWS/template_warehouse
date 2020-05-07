@@ -42,14 +42,14 @@ _This rubric helps the team assess the relative importance of this ticket. If th
 
 h2. Accessibility Standards Information
 _If this is an accessibility issue, describe the level of violation or issues encountered._
-- HTML Validation: Error, warning, notice
-- WCAG 2.0 A, WCAG 2.0 AA
+* HTML Validation: Error, warning, notice
+* WCAG 2.0 A, WCAG 2.0 AA
 
 h2. Device specific information:
 _If this bug is specific to a device, give the specs for that device. Repeat this information if there are multiple devices_
- - Device: [e.g. MacBook Pro, iPhone6, etc.]
- - OS: [e.g. MacOS Catalina, version 10.15.4]
- - Browser & Version [e.g. Chrome Version 80.0.3987.163]
+* Device: [e.g. MacBook Pro, iPhone6, etc.]
+* OS: [e.g. MacOS Catalina, version 10.15.4]
+* Browser & Version [e.g. Chrome Version 80.0.3987.163]
 
 h2. Additional context
 Related PRs:

@@ -11,3 +11,6 @@ https://stanfordits.atlassian.net/browse/D8CORE-1705
 
 ## QA Request ticket template
 https://stanfordits.atlassian.net/browse/D8CORE-1674
+
+## Documentation Request templates
+https://stanfordits.atlassian.net/browse/D8CORE-1991
