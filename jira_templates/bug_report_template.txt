@@ -1,6 +1,6 @@
 _This template provides guidelines for recording information about a bug. If a field or category is irrelevant feel free to remove it or mark it N/A. Thank you for taking the time to create a bug report._
 
-h1. Describe the bug
+h1. Description
 _Give a clear and concise description of the bug._
 
 Date:
