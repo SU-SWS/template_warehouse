@@ -23,6 +23,8 @@ _Where do you want this documentation to happen? Remove any that do not apply_
 * ServiceNow: _Where?_
 
 h2. Supporting information
+[SWS Style Guide|https://docs.google.com/document/d/1CSNwDlPnr_LSv170ywpzuM8xv3d5XlUHbVi5TsopeFM/edit?usp=sharing]
+
 h3. Similar or related examples
 _Do you have an example of similar documentation, or ideas of how best to represent the information?_
 
