@@ -35,6 +35,7 @@ _This rubric helps the team assess the relative importance of this ticket. If th
 | Does this cause a portion of your site to be unusable? (+2 points) |  |   |
 | Is there a workaround? (-1 point) |  |   |
 | Is this an accessibility bug? (+1-3 points) |  |   |
+| Is this a styling bug? (+1 point) |   |   |
 | Is this a security issue? (+3-5 points) |  |   |
 | Is there sensitive or private information publicly available? (+5 points) | |  |
 | Is this issue time-sensitive? (+2 points) |  |  |
