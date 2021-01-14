@@ -1,6 +1,8 @@
 _*Instructions for using this template:*_
 _These are suggestions for scoping a documentation effort. Not all sections of this will apply. Please modify as necessary and make suggestions if you'd like to see changes to this template._
 
+_This template is located in the [SU-SWS/template_warehouse|https://github.com/SU-SWS/template_warehouse] on Github_
+
 h1. Describe the requested documentation:
 _Provide a clear and concise description of the documentation needs._
 
