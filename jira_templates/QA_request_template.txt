@@ -24,21 +24,24 @@ h3. Visual
 _How does the rendered output compare to original design?_
 
 h3. UX/Design
-* [Accessibility Checklist for Design|https://docs.google.com/document/d/1jJ7b4LtLuOczLMEg-R13k5faCIRhNgaaRrsOpz3j4Vs/edit?usp=sharing] and
-* [Accessibility Checklist for UX|https://drive.google.com/open?id=1_oGHslDaq3X9jkxeOprbVjZtePgViFxY5Z9opLcz3zI]
+* Use [Accessibility Checklist for Design|https://docs.google.com/document/d/1jJ7b4LtLuOczLMEg-R13k5faCIRhNgaaRrsOpz3j4Vs/edit?usp=sharing] and
+* Use [Accessibility Checklist for UX|https://drive.google.com/open?id=1_oGHslDaq3X9jkxeOprbVjZtePgViFxY5Z9opLcz3zI]
 
 h3. Content
-* [Accessibility Checklist for Content Editors|https://drive.google.com/open?id=1aLWZhKQvNpCGJeUpRJjvoJ1yFn87RnhYPYEvs9IcG9U]
+* Use [Accessibility Checklist for Content Editors|https://drive.google.com/open?id=1aLWZhKQvNpCGJeUpRJjvoJ1yFn87RnhYPYEvs9IcG9U]
 
 h3. Accessibility
-* [Accessibility Checklist for Developers|https://drive.google.com/open?id=1ZXJ9RIUNXsS674ow9j3qJ2g1OAkCjmqMXl0Gs8XHEPQ]
-* Manual testing by Level Access through [SOAP Service Now request|https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=94f4a80edbb5041cb9dc9447db96194a]
+* Use [Accessibility Checklist for Developers|https://drive.google.com/open?id=1ZXJ9RIUNXsS674ow9j3qJ2g1OAkCjmqMXl0Gs8XHEPQ]
+* Manual testing by SWS and possibly SODA office hours
+* Manual testing by Level Access through [SODA Service Now request|https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=94f4a80edbb5041cb9dc9447db96194a]
 
 h3. Cross-browser
-* [Cross-Browser Checklist for Developers|https://docs.google.com/document/d/1d9OVRSZamQcXeN0pRoqP0bliFjR6_1NXmpLIa3Prerg/edit?usp=sharing]
+* Use [Cross-Browser Checklist for Developers|https://docs.google.com/document/d/1d9OVRSZamQcXeN0pRoqP0bliFjR6_1NXmpLIa3Prerg/edit?usp=sharing]
 
 h3. Regression testing
 _Compare a production site with a test site. Also known as "Linky-Clicky" :D_
+* Using Diffy
+* Just "Linky-Clicky" through the site
 
 h3. User Guide
 _Is the description in the user guide accurate?_
