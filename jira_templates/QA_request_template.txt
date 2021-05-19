@@ -31,9 +31,11 @@ h3. Content
 * Use [Accessibility Checklist for Content Editors|https://drive.google.com/open?id=1aLWZhKQvNpCGJeUpRJjvoJ1yFn87RnhYPYEvs9IcG9U]
 
 h3. Accessibility
-* Use [Accessibility Checklist for Developers|https://drive.google.com/open?id=1ZXJ9RIUNXsS674ow9j3qJ2g1OAkCjmqMXl0Gs8XHEPQ]
-* Manual testing by SWS and possibly SODA office hours
-* Manual testing by Level Access through [SODA Service Now request|https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=94f4a80edbb5041cb9dc9447db96194a]
+* For new development, use [Accessibility Checklist for Developers|https://drive.google.com/open?id=1ZXJ9RIUNXsS674ow9j3qJ2g1OAkCjmqMXl0Gs8XHEPQ]
+* Automated checking after a release or site update
+* Manual review by SWS
+* Consultation at SODA office hours
+* Manual testing through [SODA Service Now request|https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=94f4a80edbb5041cb9dc9447db96194a]
 
 h3. Cross-browser
 * Use [Cross-Browser Checklist for Developers|https://docs.google.com/document/d/1d9OVRSZamQcXeN0pRoqP0bliFjR6_1NXmpLIa3Prerg/edit?usp=sharing]
