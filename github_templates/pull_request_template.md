@@ -20,11 +20,11 @@
 3. Verify...
 
 ## Front End Validation
-- [ ] Is the markup using the appropriate semantic tags and passes HTML validation?
-- [ ] Cross-browser testing has been performed?
-- [ ] Automated accessibility scans performed?
-- [ ] Manual accessibility tests performed?
 - [ ] Design is approved by @ user?
+- [ ] HTML validation: Is the markup using the appropriate semantic tags and [passes validation](https://validator.w3.org/nu/)? Or, [QA request ticket created](https://github.com/SU-SWS/template_warehouse/blob/
+- [ ] Cross-browser testing: Has been performed? Or, [QA request ticket created](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)?
+- [ ] Automated accessibility: Scans performed? Or, [QA request ticket created](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)?
+- [ ] Manual accessibility: Manually tested? Or, [QA request ticket created](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)?
 
 ## Backend / Functional Validation
 ### Code

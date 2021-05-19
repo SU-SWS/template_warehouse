@@ -1,0 +1,35 @@
+_*Instructions for using this template:*_
+_These are suggestions for describing work in a Jira ticket. Not all sections of this will apply. Please modify as necessary and make suggestions if you'd like to see changes to this template._
+
+_This template is located in the [SU-SWS/template_warehouse|https://github.com/SU-SWS/template_warehouse] on Github_
+
+h1. Description
+_Provide a clear and concise description._
+
+h2. Type of work
+*UX/Design*
+*Development*
+*Content*
+*Documentation*
+
+h2. Background
+
+h3. Examples
+_Are there designs, mockups, examples, or similar work to reference?
+*Webpage URL*: 
+*Designs*:
+*Screenshot*:
+
+h3. Related Jira ticket(s) or PR(s):
+
+h3. Any specific tools or techniques to use:
+
+h2. Environment
+
+h3. Git branch 
+_Name of Github branch to start from and merged into._
+
+h3. Location for deployment
+_Is there development environment where this is to be deployed?_ 
+
+h2. Other information
