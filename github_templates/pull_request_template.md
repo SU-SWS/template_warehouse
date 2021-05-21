@@ -11,13 +11,21 @@
 - How critical is this PR on a 1-10 scale? Also see [Severity Assessment](https://stanfordits.atlassian.net/browse/D8CORE-1705).
 - E.g., it affects one site, or every site and product?
 
+# Urgency
+- How urgent is this? (Normal, High)
+
 # Review Tasks
 
 ## Setup tasks and/or behavior to test
 
 1. Check out this branch
-2. Navigate to...
-3. Verify...
+2. Rebuild Cache and import config `drush cr ; drush ci`
+3. Navigate to...
+4. Verify...
+
+### Site Configuration Sync
+
+- Is there a config:export in this PR that changes the config sync directory?
 
 ## Front End Validation
 - [ ] Design is approved by @ user?
