@@ -60,7 +60,9 @@
 - Anyone who should be notified? (`@mention` them here)
 
 # Resources
-- [AMP Tool](https://stanford.levelaccess.net/index.php)
-- [Accessibility Manual Test Script](https://docs.google.com/document/d/1ZXJ9RIUNXsS674ow9j3qJ2g1OAkCjmqMXl0Gs8XHEPQ/edit?usp=sharing)
-- [HTML Validator](https://validator.w3.org/)
-- [Browserstack](https://live.browserstack.com/dashboard) and link to [Browserstack Credentials](https://asconfluence.stanford.edu/confluence/display/SWS/External+Account+Credentials)
+- Automated Accessibility Testing: [Siteimprove](https://siteimprove.stanford.edu/)
+- Manual Accessibility Testing Script [SWS Accessibility Process and Checklist](https://docs.google.com/document/d/1ZXJ9RIUNXsS674ow9j3qJ2g1OAkCjmqMXl0Gs8XHEPQ/edit?usp=sharing)
+- HTML Validation for one URL: [HTML Validator](https://validator.w3.org/)
+- HTML Validation for multiple URLs: [Bulk W3C Validator](https://www.bulkseotools.com/bulk-w3c-validator.php)
+- Crossbrowser Testing: [Browserstack](https://live.browserstack.com/dashboard) and link to [Browserstack Credentials](https://asconfluence.stanford.edu/confluence/display/SWS/External+Account+Credentials)
+- Visual Regression Testing: [Diffy](https://diffy.website) and link to [Diffy Credentials](https://asconfluence.stanford.edu/confluence/display/SWS/External+Account+Credentials)
