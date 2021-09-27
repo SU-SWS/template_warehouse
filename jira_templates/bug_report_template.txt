@@ -55,10 +55,11 @@ _If this is an accessibility issue, describe the level of violation or issues en
 * WCAG 2.0 A, WCAG 2.0 AA:
 
 h2. Device specific information:
-_If this bug is specific to a device, give the specs for that device. Repeat this information if there are multiple devices_
+_If this bug is specific to a device or technology, give its specs. Repeat this information if there are multiple devices._
 * Device: [e.g. MacBook Pro, iPhone6, etc.]
 * OS: [e.g. MacOS Catalina, version 10.15.4]
 * Browser & Version [e.g. Chrome Version 80.0.3987.163]
+* Testing technology: [e.g. VoiceOver, NVDA, JAWS, Siteimprove, Axe, Arc, etc.]
 
 h2. Additional context
 * Related PRs:
