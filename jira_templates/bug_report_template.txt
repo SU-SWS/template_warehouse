@@ -1,6 +1,8 @@
-_This template provides guidelines for recording information about a bug. If a field or category is irrelevant feel free to remove it or mark it N/A. Thank you for taking the time to create a bug report._
+_This template provides guidelines for recording information about a bug. If a field or category is irrelevant feel free to mark it N/A._
 
 _This template is located in the [SU-SWS/template_warehouse|https://github.com/SU-SWS/template_warehouse] on Github_
+
+_Thank you for taking the time to create a bug report._
 
 h1. Description
 _Give a clear and concise description of the bug._
