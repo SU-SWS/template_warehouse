@@ -1,6 +1,6 @@
 ## 1. Ask site owners to create accounts on Siteimprove
 
-:E-mail: Send a note to the site owners:
+📧 Send a note to the site owners:
 
 > As part of our site building, we now set up SiteImprove for all websites. This will allow you to monitor the accessibility of your site, and it will also help with things like broken links and typos. To learn more about Siteimprove, visit https://uit.stanford.edu/accessibility/testing/siteimprove.
 
@@ -45,7 +45,7 @@ https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
 ## 4. Inform site owners when their Siteimprove is ready with their site
 
-ODA will send out an email after requesting the site. If the site owner is not on that email, send out a note that it’s ready:
+📧 ODA will send out an email after requesting the site. If the site owner is not on that email, send out a note that it’s ready:
 
 > Siteimprove has scanned your site and the reports are ready. Please log into https://siteimprove.stanford.edu and select this site from the dropdown menu at the top of your dashboard.  For tips on using Siteimprove go to https://uit.stanford.edu/accessibility/siteimprove. You can ask questions at the #cop-siteimprove slack channel. 
 
