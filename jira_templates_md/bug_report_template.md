@@ -7,11 +7,12 @@ _Thank you for taking the time to create a bug report._
 ## Description
 _Give a clear and concise description of the bug._
 
-**Date**:
-**Time**:
-**URL(s)**:
+* **Date**:
+* **Time**:
+* **URL(s)**:
 
-### Severity Assessment total*: **0**
+**Severity Assessment total**: **0**
+
 _Provide total from the list below._
 
 ### Screenshots/recordings
