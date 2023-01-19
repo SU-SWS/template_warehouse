@@ -39,18 +39,18 @@ _any tips, recommendations, LMGTFY URLs, that might help with a fix?_
 _This rubric helps the team assess the relative importance of this ticket. If the answer is *Yes* or *Maybe*, enter an appropriate value in that line of the table. When you're done, enter the total in the *Severity Assessment total* field above._
 
 _ pts _ Issue
-_____ Does this cause data loss? (+3 points)
-_____ Does this cause your site to go offline? (+5 points)
-_____ Is this a production website? (+5 points)
-_____ Does this cause a portion of your site to be unusable? (+2 points)
-_____ Is there a workaround? (-1 point)
-_____ Is this an accessibility bug? (+1-3 points)
-_____ Is this a styling bug? (+1 point)
-_____ Is this a usability bug? (+1-3 point)
-_____ Is this a security issue? (+3-5 points)
-_____ Is there sensitive or private information publicly available? (+5 points)
-_____ Is this issue time-sensitive? (+2 points)
-_____ (For internal team assessment) Will this issue cause an increase in support tickets? (+3 points)
+* _____ Does this cause data loss? (+3 points)
+* _____ Does this cause your site to go offline? (+5 points)
+* _____ Is this a production website? (+5 points)
+* _____ Does this cause a portion of your site to be unusable? (+2 points)
+* _____ Is there a workaround? (-1 point)
+* _____ Is this an accessibility bug? (+1-3 points)
+* _____ Is this a styling bug? (+1 point)
+* _____ Is this a usability bug? (+1-3 point)
+* _____ Is this a security issue? (+3-5 points)
+* _____ Is there sensitive or private information publicly available? (+5 points)
+* _____ Is this issue time-sensitive? (+2 points)
+* _____ (For internal team assessment) Will this issue cause an increase in support tickets? (+3 points)
 
 ### Customer Information
 _If this was customer reported, we'd like to let the customer know when it is fixed._
