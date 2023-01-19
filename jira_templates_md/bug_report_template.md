@@ -11,8 +11,8 @@ _Give a clear and concise description of the bug._
 **Time**:
 **URL(s)**:
 
-*Severity Assessment total*: **0**
-_Provide total from the table below._
+### Severity Assessment total*: **0**
+_Provide total from the list below._
 
 ### Screenshots/recordings
 _Add screenshots to help explain the problem.  [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) does a great job recording screen interaction_
@@ -38,7 +38,7 @@ _any tips, recommendations, LMGTFY URLs, that might help with a fix?_
 ### Severity Assessment
 _This rubric helps the team assess the relative importance of this ticket. If the answer is *Yes* or *Maybe*, enter an appropriate value in that line of the table. When you're done, enter the total in the *Severity Assessment total* field above._
 
-_ pts _ Issue
+* _ pts__  Issue
 * _____ Does this cause data loss? (+3 points)
 * _____ Does this cause your site to go offline? (+5 points)
 * _____ Is this a production website? (+5 points)
