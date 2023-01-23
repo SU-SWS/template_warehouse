@@ -51,4 +51,13 @@ https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
 > ⚠️ Important: SiteImprove is scanning a copy of your site. Please make changes on the production site.
 
-> Additionally, ODA has office hours at 11am on Thursdays at https://stanford.link/si-help/.
+> We also encourage you ask the ODA team your accessibility questions:
+
+> * ODA offers office hours at 11 and 11:30 on Tuesdays. You can sign up at: https://stanford.link/soda-help
+* You can ask questions in the cop-accessibility slack channel:  https://stanfordwebservices.slack.com/archives/C020B6YQSHE
+
+> If you have questions about Siteimprove:
+
+> * Siteimprove office hours are 11-12 on Thursdays at: https://stanford.link/si-help (this is a zoom link. No signups needed)
+* You can ask Siteimprove questions in the cop-siteimprove slack channel: https://stanfordwebservices.slack.com/archives/C020B6YQSHE 
+
