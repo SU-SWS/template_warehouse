@@ -49,4 +49,6 @@ https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
 > Siteimprove has scanned your site and the reports are ready. Please log into https://siteimprove.stanford.edu and select this site from the dropdown menu at the top of your dashboard.  For tips on using Siteimprove go to https://uit.stanford.edu/accessibility/siteimprove. You can ask questions at the #cop-siteimprove slack channel. 
 
+> ⚠️ Important: SiteImprove is scanning a copy of your site. Please make changes on the production site.
+
 > Additionally, ODA has office hours at 11am on Thursdays at https://stanford.link/si-help/.
