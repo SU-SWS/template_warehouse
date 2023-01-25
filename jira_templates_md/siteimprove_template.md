@@ -45,7 +45,13 @@ https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
 ## 4. Inform site owners when their Siteimprove is ready with their site
 
-📧 ODA will send out an email after requesting the site. If the site owner is not on that email, send out a note that it’s ready:
+📧 ODA will send out an email immediately after requesting the site. However, it can be several days before the scan of the site is complete. When the Siteimprove report is complete, here's an email template to send to the site owner:
+
+---
+
+Subject: Siteimprove report is ready!
+
+Dear Site Owner,
 
 > Siteimprove has scanned your site and the reports are ready. Please log into https://siteimprove.stanford.edu and select this site from the dropdown menu at the top of your dashboard.  For tips on using Siteimprove go to https://uit.stanford.edu/accessibility/siteimprove. You can ask questions at the #cop-siteimprove slack channel. 
 
