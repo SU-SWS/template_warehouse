@@ -41,3 +41,6 @@ After submitting your information, your request will need to be approved. Then t
 1. Copy and paste the Username and Password from the email
 1. **Save**
 
+### Record Credentials
+SWS keeps a record of CAP credentials on Confluence. After putting the credentials on the site, copy them to:
+https://asconfluence.stanford.edu/confluence/display/SWS/CAP+Credentials
