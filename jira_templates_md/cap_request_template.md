@@ -34,6 +34,8 @@ https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=3ecd311a13b83
 ### Enter credentials into a Drupal site
 After submitting your information, your request will need to be approved. Then the University IT OAuth team will setup the credentials and send you the Client ID and Password via a SECURE email.
 
+#### For Drupal 9
+
 1. Go to **Configuration** > **Importers**
 1. Click on **Authorization**
 1. Copy and paste the Username and Password from the email
