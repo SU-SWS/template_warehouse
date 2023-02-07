@@ -1,21 +1,16 @@
 ## 1. Ask site owners to create accounts on Siteimprove
+Site owners log into Siteimprove to create their account.
 
-📧 Send a note to the site owners:
+### 📧 Send email: Create your account on Siteimprove
 
 > As part of our site building, we now set up SiteImprove for all websites. This will allow you to monitor the accessibility of your site, and it will also help with things like broken links and typos. To learn more about Siteimprove, visit https://uit.stanford.edu/accessibility/testing/siteimprove.
 
 > To give you access to the reports, if you haven’t already, you will need to create your account by logging into SiteImprove. Please log onto https://siteimprove.stanford.edu, and then let us know you have done so. Then, we can set you up with access to reports for your site.
 
 
-## 2. Decide what to do with the old site at launch
+## 2. Create Siteimprove entry
 
-When we launch the new version of a site, if there’s an existing site, what do we want to do with the  data in Siteimprove? That is, do we want to have the historical data available? Here’s the options:
-
-* Default: When we launch, we  delete the NEW site in Siteimprove and change the URL on the OLD site to point to the launched site. Or
-
-* Delete the old data because its not important anymore and just go with the new.
-
-## 3. Create Siteimprove entry
+Is there an existing entry in Siteimprove for this site? If so, can just update the existing entry?
 
 Once the production site has been provisioned, here are directions for creating a Siteimprove entry:
 https://sws-devguide.stanford.edu/site-building/testing-site-launch#siteimprove-entry
@@ -43,13 +38,12 @@ https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
 * Site owners who will be using Siteimprove
 
-## 4. Inform site owners when their Siteimprove is ready with their site
+## 3. Inform site owners when their Siteimprove is ready with their site
 
 📧 ODA will send out an email immediately after requesting the site. However, it can be several days before the scan of the site is complete. When the Siteimprove report is complete, here's an email template to send to the site owner:
 
 ---
-
-Subject: Siteimprove report is ready!
+### 📧 Send email: Siteimprove report is ready!
 
 Dear Site Owner,
 
