@@ -36,11 +36,19 @@ After submitting your information, your request will need to be approved. Then t
 
 #### For Drupal 9
 
-1. Go to **Configuration** > **Importers**
+1. Go to **Configuration** > **Importers** or `/admin/config/importers/person-importer`
 1. Click on **Authorization**
 1. Copy and paste the Username and Password from the email
 1. **Save**
+2. Test connection by importing a person (consider using your SUNetID) at **Structure** > **Migrations**
+3. Find the imported person at `/people`
+4. If necessary:
+   5.  **edit** and **delete** node
+   6. Remove from importer
 
 ### Record Credentials
-SWS keeps a record of CAP credentials on Confluence. After putting the credentials on the site, copy them to:
+SWS keeps a record of CAP credentials on Confluence and Dashlane (in testing). After putting the credentials on the site, copy them to:
 https://asconfluence.stanford.edu/confluence/display/SWS/CAP+Credentials
+
+Dashlane: https://app.dashlane.com/credentials#/login
+
