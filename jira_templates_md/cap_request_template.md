@@ -43,8 +43,8 @@ After submitting your information, your request will need to be approved. Then t
 2. Test connection by importing a person (consider using your SUNetID) at **Structure** > **Migrations**
 3. Find the imported person at `/people`
 4. If necessary:
-   5.  **edit** and **delete** node
-   6. Remove from importer
+   *  **edit** and **delete** node
+   * Remove from importer
 
 ### Record Credentials
 SWS keeps a record of CAP credentials on Confluence and Dashlane (in testing). After putting the credentials on the site, copy them to:
