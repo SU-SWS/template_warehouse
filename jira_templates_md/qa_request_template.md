@@ -31,9 +31,12 @@ _How does the rendered output compare to original design?_
 * Use [Accessibility Checklist for Content Editors](https://drive.google.com/open?id=1aLWZhKQvNpCGJeUpRJjvoJ1yFn87RnhYPYEvs9IcG9U)
 
 #### Accessibility
-* For new development, use [Accessibility Checklist for Developers](https://drive.google.com/open?id=1ZXJ9RIUNXsS674ow9j3qJ2g1OAkCjmqMXl0Gs8XHEPQ)
-* Automated checking after a release or site update
-* Manual review by SWS
+Recore results by creating a new, or adding to an existing worksheet:
+* For development, use [Webpage or Component Checklist](https://docs.google.com/spreadsheets/d/1HepsUhbGZtvBhdIDK4o2odPRzxXToGsR0amgwjZLKHg/edit#gid=542018287). Note: if there is an existing worksheet, please add a new sheet to it.
+* For designs, use [Design Styling Checks](https://docs.google.com/spreadsheets/d/1HepsUhbGZtvBhdIDK4o2odPRzxXToGsR0amgwjZLKHg/edit#gid=1657689505)
+* For automated checking a release or site update, use [Siteimprove](https://siteimprove.stanford.edu/) and [Siteimprove Results](https://docs.google.com/spreadsheets/d/1HepsUhbGZtvBhdIDK4o2odPRzxXToGsR0amgwjZLKHg/edit#gid=1701573318)
+
+##### Additionally Consider
 * Consultation at SODA office hours
 * Manual testing through [SODA Service Now request](https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=94f4a80edbb5041cb9dc9447db96194a)
 
