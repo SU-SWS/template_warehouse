@@ -31,7 +31,7 @@ _How does the rendered output compare to original design?_
 * Use [Accessibility Checklist for Content Editors](https://drive.google.com/open?id=1aLWZhKQvNpCGJeUpRJjvoJ1yFn87RnhYPYEvs9IcG9U)
 
 #### Accessibility
-Recore results by creating a new, or adding to an existing worksheet:
+Record results by creating a new, or adding to an existing worksheet:
 * For development, use [Webpage or Component Checklist](https://docs.google.com/spreadsheets/d/1HepsUhbGZtvBhdIDK4o2odPRzxXToGsR0amgwjZLKHg/edit#gid=542018287). Note: if there is an existing worksheet, please add a new sheet to it.
 * For designs, use [Design Styling Checks](https://docs.google.com/spreadsheets/d/1HepsUhbGZtvBhdIDK4o2odPRzxXToGsR0amgwjZLKHg/edit#gid=1657689505)
 * For automated checking a release or site update, use [Siteimprove](https://siteimprove.stanford.edu/) and [Siteimprove Results](https://docs.google.com/spreadsheets/d/1HepsUhbGZtvBhdIDK4o2odPRzxXToGsR0amgwjZLKHg/edit#gid=1701573318)
