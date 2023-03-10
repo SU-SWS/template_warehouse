@@ -68,5 +68,5 @@ _Where do you want this verification to happen? Remove any that do not apply_
 
 #### Tools and techniques to use:
 
-#### Other information
+### Other information
 
