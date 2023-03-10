@@ -52,3 +52,8 @@ https://asconfluence.stanford.edu/confluence/display/SWS/CAP+Credentials
 
 Dashlane: https://app.dashlane.com/credentials#/login
 
+### Communicate to Client 
+
+"On your website we have set up a importer to import profiles from CAP (Community Academic Profiles). As the site owner, 
+you have been subscribed to the cap-api-announce mailing list."
+
