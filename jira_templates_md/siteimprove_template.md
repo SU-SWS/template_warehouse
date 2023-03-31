@@ -24,7 +24,7 @@ https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
 ### You’ll need
 
-1. School, Department, or Office - Check org code for ideas
+1. School, Department, or Office - Check org code (https://web.stanford.edu/dept/pres-provost/budget/org/orgchart/)
 
 1. Production URL (if known)
 
