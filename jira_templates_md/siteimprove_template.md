@@ -1,4 +1,15 @@
-## 1. Ask site owners to create accounts on Siteimprove
+## 1. Get the site info
+To request Siteimprove scanning you’ll need:
+
+1. School, Department, or Office - Check org code (https://web.stanford.edu/dept/pres-provost/budget/org/orgchart/)
+
+1. Production URL (if known)
+
+1. Build URL
+
+1. Site owners (names and emails) who will be using Siteimprove
+
+## 2. Ask site owners to create accounts on Siteimprove
 Site owners log into Siteimprove to create their account.
 
 ### 📧 Send email: Create your account on Siteimprove
@@ -8,9 +19,9 @@ Site owners log into Siteimprove to create their account.
 > To give you access to the reports, if you haven’t already, you will need to create your account by logging into SiteImprove. Please log onto https://siteimprove.stanford.edu, and then let us know you have done so. Then, we can set you up with access to reports for your site.
 
 
-## 2. Create Siteimprove entry
+## 3. Create Siteimprove entry
 
-Is there an existing entry in Siteimprove for this site? If so, can just update the existing entry?
+Is there an existing entry in Siteimprove for this site? If so, can we just update the existing entry?
 
 Once the production site has been provisioned, here are directions for creating a Siteimprove entry:
 https://sws-devguide.stanford.edu/site-building/testing-site-launch#siteimprove-entry
@@ -22,23 +33,8 @@ See also https://asconfluence.stanford.edu/confluence/display/SWS/Accessibility+
 Here’s the direct link for the Siteimprove form
 https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
-### You’ll need
 
-1. School, Department, or Office - Check org code (https://web.stanford.edu/dept/pres-provost/budget/org/orgchart/)
-
-1. Production URL (if known)
-
-1. Build URL
-
-### When requesting additional users in Siteimprove, please include:
-
-* Dena DeBry denas@stanford.edu
-
-* Caryl Westerberg cjwest@stanford.edu
-
-* Site owners who will be using Siteimprove
-
-## 3. Inform site owners when their Siteimprove is ready with their site
+## 4. Inform site owners when their Siteimprove is ready with their site
 
 📧 ODA will send out an email immediately after requesting the site. However, it can be several days before the scan of the site is complete. When the Siteimprove report is complete, here's an email template to send to the site owner:
 
