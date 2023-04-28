@@ -6,17 +6,17 @@
 	</li>
 </ul>
 
-<h2>Sample Pages</h2>
+<h2 id="sample-pages">Sample Pages</h2>
 
 <ul>
 	<li><a href="">Home</a></li>
 </ul>
 
-<h2>A11y QA Pages</h2>
+<h2 id="a11y-qa-pages">A11y QA Pages</h2>
 
-<h2>Banner Styles</h2>
+<h2 id="banner-pages">Banner Styles</h2>
 
-<h2>Button and Link Styles</h2>
+<h2 id="button-link-pages">Button and Link Styles</h2>
 
 <ul>
 	<li><a href="">QA Button &amp; Links</a></li>
@@ -25,20 +25,20 @@
 <ul>
 </ul>
 
-<h2>Card Styles</h2>
+<h2 id="card-pages">Card Styles</h2>
 
 <ul>
 	<li><a href="">News card examples</a></li>
 </ul>
 
-<h2>Colors</h2>
+<h2 id="color-pages">Colors</h2>
 
-<h2>List and Teaser Styles</h2>
+<h2 id="list-teaser-pages">List and Teaser Styles</h2>
 
 <ul>
 </ul>
 
-<h2>Typography</h2>
+<h2 id="typography-pages">Typography</h2>
 
 <ul>
 	<li><a href="">Landing page with all the text styles possible</a></li>
