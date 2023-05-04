@@ -8,6 +8,20 @@ _Provide a clear and concise description of the QA needs._
 
 Related Jira ticket(s) or PR(s):
 
+
+### Environments
+
+#### Mockups:
+_Provide URL or attach images of related mockups._
+
+#### QA Location
+
+_Where do you want this verification to happen? Remove any that do not apply_
+* URL(local, public): https://...
+* Existing pages: _What existing pages need to be checked?_
+* Content to create: _What content needs to be created?_
+
+
 ### Scope
 
 _Is this to check specific work, or for a whole site or release?_
@@ -40,7 +54,10 @@ Record results by creating a new, or adding to an existing worksheet:
 * Consultation at SODA office hours
 * Manual testing through [SODA Service Now request](https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=94f4a80edbb5041cb9dc9447db96194a)
 
-#### Cross-browser
+#### Design Review
+Do the designs meet our standards?
+
+#### Cross-browser testing
 * Use [Cross-Browser Checklist for Developers](https://docs.google.com/document/d/1d9OVRSZamQcXeN0pRoqP0bliFjR6_1NXmpLIa3Prerg/edit?usp=sharing)
 
 #### Regression testing
@@ -48,7 +65,7 @@ _Compare a production site with a test site. Also known as "Linky-Clicky" :D_
 * Using Diffy
 * Just "Linky-Clicky" through the site
 
-#### User Guide
+#### User Documentation
 _Is the description in the user guide accurate?_
 
 #### Module Documentation
@@ -57,17 +74,6 @@ _Does the readme.md for the module accurately describe the module and how to use
 #### Other type of QA:
 _Please describe_
 
-### Mockups:
-_Provide URL or attach images of related mockups._
-
-### Environments
-
-#### QA Location
-
-_Where do you want this verification to happen? Remove any that do not apply_
-* URL(local, public): https://...
-* Existing pages: _What existing pages need to be checked?_
-* Content to create: _What content needs to be created?_
 
 #### Tools and techniques to use:
 
