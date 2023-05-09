@@ -1,11 +1,11 @@
-_This template provides guidelines for recording information about a bug. If a field or category is irrelevant, feel free to mark it N/A._
+This template provides guidelines for recording information about a bug. If a field or category is irrelevant, feel free to mark it N/A.
 
-_This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github_
+This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github.
 
-_Thank you for taking the time to create a bug report._
+Thank you for taking the time to create a bug report.
 
 ## Description
-_Give a clear and concise description of the bug._
+Give a clear and concise description of the bug.
 
 * **Date**:
 * **Time**:
@@ -13,10 +13,10 @@ _Give a clear and concise description of the bug._
 
 **Severity Assessment total**: **0**
 
-_Provide total from the list below._
+Provide total from the list below.
 
 ### Screenshots/recordings
-_Add screenshots to help explain the problem.  [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) does a great job recording screen interaction_
+Add screenshots to help explain the problem.  [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) does a great job recording screen interaction
 
 ### To Reproduce
 Steps to reproduce the behavior:
@@ -26,10 +26,10 @@ Steps to reproduce the behavior:
 1. See error
 
 ### Expected behavior
-_A clear and concise description of what you expected to happen._
+A clear and concise description of what you expected to happen.
 
 ### Suggestions for resolution
-_any tips, recommendations, LMGTFY URLs, that might help with a fix?_
+any tips, recommendations, LMGTFY URLs, that might help with a fix?
 
 ### Process Improvement
 * Is this bug due to something missing in our process?
@@ -37,7 +37,7 @@ _any tips, recommendations, LMGTFY URLs, that might help with a fix?_
 * Can we improve our process to avoid this bug in the future?
 
 ### Severity Assessment
-_This rubric helps the team assess the relative importance of this ticket. If the answer is *Yes* or *Maybe*, enter an appropriate value in that line of the table. When you're done, enter the total in the *Severity Assessment total* field above._
+This rubric helps the team assess the relative importance of this ticket. If the answer is *Yes* or *Maybe*, enter an appropriate value in that line of the table. When you're done, enter the total in the *Severity Assessment total* field above.
 
 * _ pts__  Issue
 * _____ Does this cause data loss? (+3 points)
@@ -54,17 +54,17 @@ _This rubric helps the team assess the relative importance of this ticket. If th
 * _____ (For internal team assessment) Will this issue cause an increase in support tickets? (+3 points)
 
 ### Customer Information
-_If this was customer reported, we'd like to let the customer know when it is fixed._
+If this was customer reported, we'd like to let the customer know when it is fixed.
 * Customer Name:
 * Customer Email:
 
 ### Accessibility Standards Information
-_If this is an accessibility issue, describe the level of violation or issues encountered._
+If this is an accessibility issue, describe the level of violation or issues encountered.
 * HTML Validation: Error, warning, notice:
 * WCAG 2.0 A, WCAG 2.0 AA:
 
 ### Device specific information:
-_If this bug is specific to a device or technology, give its specs. Repeat this information if there are multiple devices._
+If this bug is specific to a device or technology, give its specs. Repeat this information if there are multiple devices.
 * Device: [e.g. MacBook Pro, iPhone6, etc.]
 * OS: [e.g. MacOS Catalina, version 10.15.4]
 * Browser & Version [e.g. Chrome Version 80.0.3987.163]
