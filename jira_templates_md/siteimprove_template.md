@@ -1,13 +1,14 @@
 ## 1. Get the site info
 To request Siteimprove scanning you’ll need:
 
-1. School, Department, or Office - Check org code (https://web.stanford.edu/dept/pres-provost/budget/org/orgchart/)
+1. **School, Department, or Office** - Check org code (https://web.stanford.edu/dept/pres-provost/budget/org/orgchart/)
 
-1. Production URL (if known)
+1. **Production URL** (If the site is not launched, this will be the eventual URL.)
 
-1. Build URL
+1. **Build URL** (Where the new site-to-be-launched is getting built.)
 
-1. Site owners (names and emails) who will be using Siteimprove
+1. **Site owners** (names and emails) who will be using Siteimprove
+2. **Optional: information about the site**, for example: "This is a sandbox site and that it will not have an associated production URL."
 
 ## 2. Ask site owners to create accounts on Siteimprove
 Site owners log into Siteimprove to create their account.
