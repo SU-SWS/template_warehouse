@@ -1,37 +1,21 @@
-**Instructions for using this template:**
-These are suggestions for scoping a QA and accessibility effort. Not all sections of this will apply. Please modify as necessary and make suggestions if you'd like to see changes to this template.
 
-This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github
-
-## Describe the requested QA:
-Provide a clear and concise description of the QA needs.
-
-**Related Jira ticket(s) or PR(s)**:
-
-
-### Environments
-
-#### Mockups:
-Provide URL or attach images of related mockups.
-
-#### QA Location
-
-Where do you want this verification to happen? Remove any that do not apply_
-* URL(local, public): https://...
-* Existing pages: (What existing pages need to be checked?)
-* Content to create: (What content needs to be created?)
-
+### Links to items to review
+This can be links to mockups, a site, or specific pages or items on a site.
 
 ### Scope
 
 Is this to check specific work, or for a whole site or release?
+
+**Related Jira ticket(s) or PR(s)**:
+
 ### Release version, expected time and date:
 
 What is the release version, or date and time for this effort?
 
-### Type of QA
+---
 
-Use this list to identify the type(s) of QA you're requesting. Remove any that do not apply
+### Type of QA
+Here are types QA that are typically done and helpful references.
 
 #### Visual
 How does the rendered output compare to original design?
@@ -78,3 +62,7 @@ Please describe
 
 ### Other information
 
+**Instructions for using this template:**
+These are suggestions for scoping a QA and accessibility effort. Not all sections of this will apply. Please modify as necessary and make suggestions if you'd like to see changes to this template.
+
+This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github
