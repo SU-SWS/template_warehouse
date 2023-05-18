@@ -12,52 +12,6 @@ Is this to check specific work, or for a whole site or release?
 
 What is the release version, or date and time for this effort?
 
----
-
-### Type of QA
-Here are types QA that are typically done and helpful references.
-
-#### Visual
-How does the rendered output compare to original design?
-
-#### UX/Design
-* Use [Accessibility Checklist for Design](https://docs.google.com/document/d/1jJ7b4LtLuOczLMEg-R13k5faCIRhNgaaRrsOpz3j4Vs/edit?usp=sharing) and
-* Use [Accessibility Checklist for UX](https://drive.google.com/open?id=1_oGHslDaq3X9jkxeOprbVjZtePgViFxY5Z9opLcz3zI)
-
-#### Content
-* Use [Accessibility Checklist for Content Editors](https://drive.google.com/open?id=1aLWZhKQvNpCGJeUpRJjvoJ1yFn87RnhYPYEvs9IcG9U)
-
-#### Accessibility
-Record results by creating a new, or adding to an existing worksheet:
-* For development, use [Webpage or Component Checklist](https://docs.google.com/spreadsheets/d/1HepsUhbGZtvBhdIDK4o2odPRzxXToGsR0amgwjZLKHg/edit#gid=542018287). Note: if there is an existing worksheet, please add a new sheet to it.
-* For designs, use [Design Styling Checks](https://docs.google.com/spreadsheets/d/1HepsUhbGZtvBhdIDK4o2odPRzxXToGsR0amgwjZLKHg/edit#gid=1657689505)
-* For automated checking a release or site update, use [Siteimprove](https://siteimprove.stanford.edu/) and [Siteimprove Results](https://docs.google.com/spreadsheets/d/1HepsUhbGZtvBhdIDK4o2odPRzxXToGsR0amgwjZLKHg/edit#gid=1701573318)
-
-##### Additionally Consider
-* Consultation at SODA office hours
-* Manual testing through [SODA Service Now request](https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=94f4a80edbb5041cb9dc9447db96194a)
-
-#### Design Review
-Do the designs meet our standards?
-
-#### Cross-browser testing
-* Use [Cross-Browser Checklist for Developers](https://docs.google.com/document/d/1d9OVRSZamQcXeN0pRoqP0bliFjR6_1NXmpLIa3Prerg/edit?usp=sharing)
-
-#### Regression testing
-Compare a production site with a test site. Also known as "Linky-Clicky" :D
-* Using Diffy
-* Just "Linky-Clicky" through the site
-
-#### User Documentation
-Is the description in the user guide accurate?
-
-#### Module Documentation
-Does the readme.md for the module accurately describe the module and how to use it?
-
-#### Other type of QA:
-Please describe
-
-
 #### Tools and techniques to use:
 
 ### Other information
