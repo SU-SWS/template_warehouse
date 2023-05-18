@@ -25,3 +25,5 @@ Any special tools or techniques to consider?
 These are suggestions for scoping a QA and accessibility effort. Not all sections of this will apply. Please modify as necessary and make suggestions if you'd like to see changes to this template.
 
 This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github
+
+To learn more about the types of QA and any details, please see https://sws-devguide.stanford.edu/front-end/product-development-process/types-qa
