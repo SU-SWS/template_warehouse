@@ -1,18 +1,22 @@
 
 ### Links to items to review
-This can be links to mockups, a site, or specific pages or items on a site.
+Add links to mockups, a site, or specific pages or items on a site.
 
 ### Scope
+For example, is this to check specific work, or for a whole site or release?
 
-Is this to check specific work, or for a whole site or release?
 
-### Related Jira ticket(s) or PR(s):
+### Related Links:
+Add links to related tickets, PRs, documents, sites, etc.?
+
 
 ### Release version, expected time and date:
-
 What is the release version, or date and time for this effort?
 
-#### Tools and techniques to use:
+
+### Tools and techniques to use:
+Any special tools or techniques to consider?
+
 
 ### Other information
 ---
