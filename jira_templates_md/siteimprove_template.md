@@ -27,7 +27,7 @@ Is there an existing entry in Siteimprove for this site? If so, can we just upda
 Once the production site has been provisioned, here are directions for creating a Siteimprove entry:
 https://sws-devguide.stanford.edu/site-building/testing-site-launch#siteimprove-entry
 
-See also https://asconfluence.stanford.edu/confluence/display/SWS/Accessibility+testing+process+for+client+sites
+See also https://stanford.atlassian.net/wiki/spaces/SWS/pages/124563847/Accessibility+Checking+process+for+client+sites
 
 ### The Siteimprove form
 
