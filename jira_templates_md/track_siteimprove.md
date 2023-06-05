@@ -13,10 +13,10 @@ Ticket name: A11y|SI: Track Siteimprove Issues for <project_name>
 
 ## Project links
 
-* Jira board: (Example: https://stanfordits.atlassian.net/browse/CAWD9 )
 * Si Dashboard:
-* Si Story:
-* A11y tracking report:
+* A11y tracking report: (link to spreadsheet)
+* Jira board:
+* Docs Folder: (Client Folder typically in Google drive)
 * Charter:
 
 ## Site links:
