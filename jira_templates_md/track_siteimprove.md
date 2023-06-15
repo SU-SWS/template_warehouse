@@ -9,19 +9,20 @@ Use this to create a story ticket for checking and noting changes in Siteimprove
 
 ### SWS Contacts:
 
-* Who is managing this project:
+* Who is managing this project: 
 * Who is working on this project (designers & developers)?
 
 ## Project links
 
-* Si Dashboard:
+* Harvest: 
+* Si Dashboard: 
 * A11y tracking report: (link to spreadsheet)
-* Jira board:
+* Jira board: 
 * Docs Folder: (Client Folder typically in Google drive)
-* Charter:
+* Charter: 
 
 ## Site links:
 
-* Prod URL:
+* Prod URL: 
 * Build URL: (With site getting rebuilt, this is the site where the development happens)
 * Test URL: (If Si is not scanning prod, this is the site that's getting scanned.)
