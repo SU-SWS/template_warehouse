@@ -13,7 +13,7 @@ To request Siteimprove scanning you’ll need:
 ## 2. Ask site owners to create accounts on Siteimprove
 Site owners log into Siteimprove to create their account.
 
-### 📧 Send email, Subject: Create your Siteimprove account for <site-name>
+### 📧 Send email, Subject: Create your Siteimprove account for \<site-name\>
 
 As part of our site building, we now set up SiteImprove for all websites. This will allow you to monitor the accessibility of your site, and it will also help with things like broken links and typos. To learn more about Siteimprove, visit https://uit.stanford.edu/accessibility/testing/siteimprove.
 
@@ -40,7 +40,7 @@ https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 📧 ODA will send out an email immediately after requesting the site. However, it can be several days before the scan of the site is complete. When the Siteimprove report is complete, here's an email template to send to the site owner:
 
 ---
-### 📧 Send email, Subject: Siteimprove report for <site-name> is ready!
+### 📧 Send email, Subject: Siteimprove report for \<site-name\> is ready!
 
 Dear Site Owner,
 
