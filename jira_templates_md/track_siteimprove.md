@@ -3,9 +3,10 @@ Use this to create a story ticket for checking and noting changes in Siteimprove
 **Ticket name**: A11y|SI: Track Siteimprove Issues for <project_name>
 
 ## Level of SWS support:
-SWS will continue to monitor Si scores.
+In all cases, SWS will continue to monitor Si scores. See [Client site accessibility checking, tracking, and remediation post-launch
+]([url](https://stanford.atlassian.net/wiki/spaces/SWS/pages/124563847/Accessibility+Checking+process+for+client+sites#Client-site-accessibility-checking%2C-tracking%2C-and-remediation-post-launch))
 
-Options are:
+### Support options include:
 * No help
 * Limited help
 * Facilitated help
