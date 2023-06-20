@@ -2,6 +2,15 @@ Use this to create a story ticket for checking and noting changes in Siteimprove
 
 **Ticket name**: A11y|SI: Track Siteimprove Issues for <project_name>
 
+## Level of SWS support:
+SWS will continue to monitor Si scores.
+
+Options are:
+* No help
+* Limited help
+* Facilitated help
+* Comprehensive support
+
 ## Contacts:
 
 ### Site Accessibility Liaison:
