@@ -15,7 +15,7 @@ Site owners log into Siteimprove to create their account.
 
 ### 📧 Send email, Subject: Create your Siteimprove account for \<site-name\>
 
-As part of our site building, we now set up SiteImprove for all websites. This will allow you to monitor the accessibility of your site, and it will also help with things like broken links and typos. To learn more about Siteimprove, visit https://uit.stanford.edu/accessibility/testing/siteimprove.
+As part of our site building, we set up SiteImprove. This will allow you to monitor the accessibility of your site, and it will also help with things like broken links and typos. To learn more about Siteimprove, visit https://uit.stanford.edu/accessibility/testing/siteimprove.
 
 To give you access to the reports, if you haven’t already, you will need to create your account by logging into SiteImprove. Please log onto https://siteimprove.stanford.edu, and then let us know you have done so. Then, we can set you up with access to reports for your site.
 
