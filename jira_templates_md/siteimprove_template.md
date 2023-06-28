@@ -1,4 +1,7 @@
-## 1. Get the site info
+## 1. What is this billed to?
+What's the catgory in Harvest?
+
+## 2. Get the site info
 To request Siteimprove scanning you’ll need:
 
 1. **School, Department, or Office** - Check org code (https://web.stanford.edu/dept/pres-provost/budget/org/orgchart/)
@@ -20,7 +23,7 @@ As part of our site building, we set up SiteImprove. This will allow you to moni
 To give you access to the reports, if you haven’t already, you will need to create your account by logging into SiteImprove. Please log onto https://siteimprove.stanford.edu, and then let us know you have done so. Then, we can set you up with access to reports for your site.
 
 
-## 3. Create Siteimprove entry
+## 4. Create Siteimprove entry
 
 Is there an existing entry in Siteimprove for this site? If so, can we just update the existing entry?
 
@@ -35,7 +38,7 @@ Here’s the direct link for the Siteimprove form
 https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
 
-## 4. Inform site owners when their Siteimprove is ready with their site
+## 5. Inform site owners when their Siteimprove is ready with their site
 
 📧 ODA will send out an email immediately after requesting the site. However, it can be several days before the scan of the site is complete. When the Siteimprove report is complete, here's an email template to send to the site owner:
 
