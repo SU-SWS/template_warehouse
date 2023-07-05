@@ -38,6 +38,9 @@ Here’s the direct link for the Siteimprove form
 https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
 
+## 5. Tag site with SWS Managed
+If we have a retainer for the site, we want to track the score for the site. This way, if we see a downward trend we can inform the site owner.
+
 ## 5. Inform site owners when their Siteimprove is ready with their site
 
 📧 ODA will send out an email immediately after requesting the site. However, it can be several days before the scan of the site is complete. When the Siteimprove report is complete, here's an email template to send to the site owner:
