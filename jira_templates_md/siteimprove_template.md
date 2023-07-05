@@ -42,7 +42,7 @@ https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 If we have a retainer for the site, we want to track the score for the site. This way, if we see a downward trend we can inform the site owner.
 See https://docs.google.com/spreadsheets/d/1WbtLeC92O-YfaQDRT_N9ZEm22b27d5lyLcSg166rnj8/edit#gid=0 
 
-## 5. Inform site owners when their Siteimprove is ready with their site
+## 6. Inform site owners when their Siteimprove is ready with their site
 
 📧 ODA will send out an email immediately after requesting the site. However, it can be several days before the scan of the site is complete. When the Siteimprove report is complete, here's an email template to send to the site owner:
 
