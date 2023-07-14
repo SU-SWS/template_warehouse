@@ -4,7 +4,7 @@ Use this to create a story ticket for checking and noting changes in Siteimprove
 
 ## Level of SWS support:
 In all cases, SWS will continue to monitor Si scores. See [Client site accessibility checking, tracking, and remediation post-launch
-]([url](https://stanford.atlassian.net/wiki/spaces/SWS/pages/124563847/Accessibility+Checking+process+for+client+sites#Client-site-accessibility-checking%2C-tracking%2C-and-remediation-post-launch))
+]([url](https://stanford.atlassian.net/wiki/spaces/SWS/pages/edit-v2/124563847)) - https://stanford.atlassian.net/wiki/spaces/SWS/pages/edit-v2/124563847
 
 ### Support options include:
 * No help
