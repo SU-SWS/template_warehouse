@@ -58,10 +58,17 @@ If this was customer reported, we'd like to let the customer know when it is fix
 * Customer Name:
 * Customer Email:
 
-### Accessibility Standards Information
+### Accessibility 
+#### Standards Information
 If this is an accessibility issue, describe the level of violation or issues encountered.
 * HTML Validation: Error, warning, notice:
 * WCAG 2.0 A, WCAG 2.0 AA:
+
+### Severity
+If this is an accessibility issue, what is the severity and how quickly should it be addressed:
+1. Urgent - talk to client ASAP
+2. less urgent - bring up with PM or team
+3. Not urgent - prioritize in sprint planning
 
 ### Device specific information:
 If this bug is specific to a device or technology, give its specs. Repeat this information if there are multiple devices.
