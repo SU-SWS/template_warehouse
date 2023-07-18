@@ -64,7 +64,7 @@ If this is an accessibility issue, describe the level of violation or issues enc
 * HTML Validation: Error, warning, notice:
 * WCAG 2.0 A, WCAG 2.0 AA:
 
-### Severity
+#### Severity
 If this is an accessibility issue, what is the severity and how quickly should it be addressed:
 1. Urgent - talk to client ASAP
 2. less urgent - bring up with PM or team
