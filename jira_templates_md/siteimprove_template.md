@@ -24,8 +24,10 @@ To give you access to the reports, if you haven’t already, you will need to cr
 
 
 ## 4. Create Siteimprove entry
+Considerations
 
-Is there an existing entry in Siteimprove for this site? If so, can we just update the existing entry?
+* Is there an existing entry in Siteimprove for this site? If so, can we just update the existing entry?
+* Is there an image gallery on the site? If so, to avoid false positives, request to "enable the Javascript Crawler."
 
 Once the production site has been provisioned, here are directions for creating a Siteimprove entry:
 https://sws-devguide.stanford.edu/site-building/testing-site-launch#siteimprove-entry
