@@ -66,9 +66,10 @@ If this is an accessibility issue, describe the level of violation or issues enc
 
 #### 🧪 Severity
 If this is an accessibility issue, what is the severity and how quickly should it be addressed:
-\1. Urgent - talk to client ASAP
-\2. less urgent - bring up with PM or team
-\3. Not urgent - prioritize in sprint planning
+
+* 1 - Urgent - talk to client ASAP
+* 2 - Address soon - bring up with PM or team
+* 3 - Not urgent - prioritize in sprint planning
 
 ### Device specific information:
 If this bug is specific to a device or technology, give its specs. Repeat this information if there are multiple devices.
