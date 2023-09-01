@@ -55,9 +55,6 @@ Dear Site Owner,
 
 Siteimprove has scanned your site and the reports are ready. Please log into https://siteimprove.stanford.edu and select this site from the dropdown menu at the top of your dashboard.  For tips on using Siteimprove go to https://uit.stanford.edu/accessibility/siteimprove. You can ask questions at the #cop-siteimprove slack channel. 
 
-⚠️ **Important: SiteImprove is scanning a copy of your site. Only make changes on the production site.**
-The production site is copied to the test site each night.
-
 We also encourage you ask the ODA team your accessibility questions:
 
 * ODA offers office hours at 11 and 11:30 on Tuesdays. You can sign up at: https://stanford.link/soda-help
