@@ -24,6 +24,16 @@ Are there designs, mockups, examples, or similar work to reference?
 * **Screenshot**:
 * **Examples**:
 
+### Definition of done
+
+What work needs to be completed?
+
+#### Accessibility checks
+* No new HTML warnings or errors
+* No new automated accessessibility warnings or errors
+* Follows SWS [accessibility conventions for semantic and logical HTML](https://sws-devguide.stanford.edu/front-end/accessibility-conventions)
+
+
 ### Related Jira ticket(s) or PR(s):
 
 Any specific tools or techniques to use:
