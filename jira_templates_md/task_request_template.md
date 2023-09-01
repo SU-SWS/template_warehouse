@@ -33,7 +33,6 @@ What work needs to be completed?
 * No new automated accessessibility warnings or errors
 * Follows SWS [accessibility conventions for semantic and logical HTML](https://sws-devguide.stanford.edu/front-end/accessibility-conventions)
 
-
 ### Related Jira ticket(s) or PR(s):
 
 Any specific tools or techniques to use:
