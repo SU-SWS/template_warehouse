@@ -48,3 +48,6 @@ Name of Github branch to start from and merged into.
 Is there development environment where this is to be deployed?
 
 ### Other information
+
+Are there other projects or people involved?
+Anything else?
