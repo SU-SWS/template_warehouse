@@ -18,14 +18,14 @@ See Accessibility Checking process for client sites - https://stanford.atlassian
 ### Site Accessibility Liaison:
 * Often this is the site owner.
 
-### SWS Contacts:
+### SWS contacts:
 
 * Who is managing this project: 
 * Who is working on this project (designers & developers)?
 
-## Project links
+## Project links & info
 
-* Harvest: 
+* Harvest Category: 
 * Si Dashboard: 
 * A11y tracking report: (link to spreadsheet)
 * Jira board: 
