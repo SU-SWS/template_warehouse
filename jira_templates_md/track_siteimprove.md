@@ -7,7 +7,6 @@ Note that in all cases, SWS will continue to monitor Si scores.
 
 ### Support options include:
 * No help
-* Limited help
 * Facilitated help
 * Comprehensive support
 
