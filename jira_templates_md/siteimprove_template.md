@@ -1,5 +1,5 @@
 ## 1. What is this billed to?
-What's the catgory in Harvest?
+What's the category in Harvest?
 
 ## 2. Get the site info
 To request Siteimprove scanning you’ll need:
