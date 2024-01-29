@@ -4,21 +4,19 @@ What's the category in Harvest?
 ## 2. Get the site info
 To request Siteimprove scanning you’ll need:
 
-1. **School, Department, or Office** - Check org code (https://web.stanford.edu/dept/pres-provost/budget/org/orgchart/)
+1. **School, Department, or Office**: - Check org code (https://web.stanford.edu/dept/pres-provost/budget/org/orgchart/)
 
-1. **Production URL** (If the site is not launched, this will be the eventual URL.)
+1. **Production URL**: (If the site is not launched, this will be the eventual URL.)
 
-1. **Build URL** (Where the new site-to-be-launched is getting built.)
-
-1. **Site owners** (names and emails) who will be using Siteimprove
-2. **Optional: information about the site**, for example: "This is a sandbox site and that it will not have an associated production URL."
+1. **Site owners**: (names and emails) who will be using Siteimprove
+2. **Optional**: for example: "This is a sandbox site and that it will not have an associated production URL."
 
 ## 2. Ask site owners to create accounts on Siteimprove
 Site owners log into Siteimprove to create their account.
 
 ### 📧 Send email, Subject: Create your Siteimprove account for \<site-name\>
 
-As part of our site building, we set up SiteImprove. This will allow you to monitor the accessibility of your site, and it will also help with things like broken links and typos. To learn more about Siteimprove, visit https://uit.stanford.edu/accessibility/testing/siteimprove.
+We are in the process of setting up SiteImprove to scan your site. Siteimprove will allow you to monitor accessibility and SEO, and help find broken links and typos. To learn more about Siteimprove, visit https://uit.stanford.edu/accessibility/testing/siteimprove.
 
 To give you access to the reports, if you haven’t already, you will need to create your account by logging into SiteImprove. Please log onto https://siteimprove.stanford.edu, and then let us know you have done so. Then, we can set you up with access to reports for your site.
 
