@@ -11,7 +11,7 @@ To request Siteimprove scanning you’ll need:
 1. **Site owners**: (names and emails) who will be using Siteimprove
 2. **Optional**: for example: "This is a sandbox site and that it will not have an associated production URL."
 
-## 2. Ask site owners to create accounts on Siteimprove
+## 3. Ask site owners to create accounts on Siteimprove
 Site owners log into Siteimprove to create their account.
 
 ---
