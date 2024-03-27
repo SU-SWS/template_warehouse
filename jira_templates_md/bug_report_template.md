@@ -1,6 +1,7 @@
 This template provides guidelines for recording information about a bug. If a field or category is irrelevant, feel free to mark it N/A.
 
 This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github.
+There's an associated Jira template at [Bug template example](https://stanfordits.atlassian.net/browse/TEMP-1)
 
 Thank you for taking the time to create a bug report.
 
