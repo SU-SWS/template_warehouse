@@ -1,3 +1,5 @@
+Note: There is an associated Jira template [Siteimprove Template](https://stanfordits.atlassian.net/browse/TEMP-9)
+
 ## 1. What is this billed to?
 What's the category in Harvest?
 
