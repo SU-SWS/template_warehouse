@@ -56,14 +56,14 @@ Dear Site Owner,
 
 Siteimprove has scanned your site and the reports are ready. Please log into https://siteimprove.stanford.edu and select this site from the dropdown menu at the top of your dashboard.  For tips on using Siteimprove go to https://uit.stanford.edu/accessibility/siteimprove. You can ask questions at the #cop-siteimprove slack channel. 
 
-## Questions about accessibility
+### Questions about accessibility
 
 We encourage you ask the ODA team your accessibility questions:
 
 * ODA offers office hours at 11 and 11:30 on Tuesdays. You can sign up at: https://stanford.link/soda-help
 * You can ask questions in the cop-accessibility slack channel:  https://stanfordwebservices.slack.com/archives/C020B6YQSHE
 
-## Questions about Siteimprove:
+### Questions about Siteimprove:
 
 * Siteimprove office hours are 11-12 on Thursdays at: https://stanford.link/si-help (this is a zoom link. No signups needed)
 * You can ask Siteimprove questions in the cop-siteimprove slack channel: https://stanfordwebservices.slack.com/archives/C020B6YQSHE 
