@@ -41,7 +41,7 @@ Here’s the direct link for the Siteimprove form
 https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
 
-## 5. Tag site with SWS Managed
+## 5. Tag site with "SWS Managed"
 If we have a retainer for the site, we want to track the score for the site. This way, if we see a downward trend we can inform the site owner.
 See https://docs.google.com/spreadsheets/d/1WbtLeC92O-YfaQDRT_N9ZEm22b27d5lyLcSg166rnj8/edit#gid=0 
 
