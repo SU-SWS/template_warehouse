@@ -25,7 +25,7 @@ To give you access to the reports, if you haven’t already, you will need to cr
 ---
 
 ## 4. Create Siteimprove entry
-Considerations
+Considerations when requesting scanning:
 
 * Is there an existing entry in Siteimprove for this site? If so, can we just update the existing entry?
 * Is there an image gallery on the site? If so, to avoid false positives, request to "enable the Javascript Crawler."
@@ -40,12 +40,7 @@ See also https://stanford.atlassian.net/wiki/spaces/SWS/pages/124563847/Accessib
 Here’s the direct link for the Siteimprove form
 https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
-
-## 5. Tag site with "SWS Managed"
-If we have a retainer for the site, we want to track the score for the site. This way, if we see a downward trend we can inform the site owner.
-See https://docs.google.com/spreadsheets/d/1WbtLeC92O-YfaQDRT_N9ZEm22b27d5lyLcSg166rnj8/edit#gid=0 
-
-## 6. Inform site owners when their Siteimprove is ready with their site
+## 5. Inform site owners when their Siteimprove is ready with their site
 
 📧 ODA will send out an email immediately after requesting the site. However, it can be several days before the scan of the site is complete. When the Siteimprove report is complete, here's an email template to send to the site owner:
 
@@ -67,4 +62,8 @@ We encourage you ask the ODA team your accessibility questions:
 
 * Siteimprove office hours are 11-12 on Thursdays at: https://stanford.link/si-help (this is a zoom link. No signups needed)
 * You can ask Siteimprove questions in the cop-siteimprove slack channel: https://stanfordwebservices.slack.com/archives/C020B6YQSHE 
+
+## 6. Tag site with "SWS Managed"
+If we have a retainer for the site, we want to track the score for the site. This way, if we see a downward trend we can inform the site owner.
+See https://docs.google.com/spreadsheets/d/1WbtLeC92O-YfaQDRT_N9ZEm22b27d5lyLcSg166rnj8/edit#gid=0 
 
