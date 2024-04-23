@@ -2,6 +2,11 @@
 ### Links to items to review
 Add links to mockups, a site, or specific pages or items on a site.
 
+* **Design (Figma) URL**: 
+* **Dev site URL**: 
+* **Stage or Test URL**: 
+* **Prod site URL**: 
+
 ### Scope
 For example, is this to check specific work, or for a whole site or release?
 
