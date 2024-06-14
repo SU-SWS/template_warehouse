@@ -26,11 +26,14 @@ Steps to reproduce the behavior:
 1. Scroll down to '....'
 1. See error
 
-### Expected behavior
-A clear and concise description of what you expected to happen.
+### Expected behavior - Definition of done
+When implemented correctly, what do you expect to happen?
+Give a clear and concise description.
+
 
 ### Suggestions for resolution
 any tips, recommendations, LMGTFY URLs, that might help with a fix?
+
 
 ### Process Improvement
 * Is this bug due to something missing in our process?
