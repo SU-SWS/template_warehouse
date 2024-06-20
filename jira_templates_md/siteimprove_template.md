@@ -51,19 +51,21 @@ https://app.smartsheet.com/b/form/66724422d1194edbab89f4009dca9c12
 
 Dear Site Owner,
 
-Siteimprove has scanned your site and the reports are ready. Please log into https://siteimprove.stanford.edu and select this site from the dropdown menu at the top of your dashboard.  For tips on using Siteimprove go to https://uit.stanford.edu/accessibility/siteimprove. You can ask questions at the #cop-siteimprove slack channel. 
+Siteimprove has scanned your site and the reports are ready. Please log into https://siteimprove.stanford.edu and select this site from the dropdown menu at the top of your dashboard.  For tips on using Siteimprove with your Stanford Site go to https://uit.stanford.edu/accessibility/siteimprove. 
 
 ### Questions about accessibility
 
-We encourage you ask the ODA team your accessibility questions:
+The Office of Digital Accessibility (ODA) team is avaiable to answer your accessibility questions:
 
 * ODA offers office hours at 11 and 11:30 on Tuesdays. You can sign up at: https://stanford.link/soda-help
 * You can ask questions in the cop-accessibility slack channel:  https://stanfordwebservices.slack.com/archives/C020B6YQSHE
 
 ### Questions about Siteimprove:
 
+The ODA team also offers assistance with Siteimprove:
+
 * Siteimprove office hours are 11-12 on Thursdays at: https://stanford.link/si-help (this is a zoom link. No signups needed)
-* You can ask Siteimprove questions in the cop-siteimprove slack channel: https://stanfordwebservices.slack.com/archives/C020B6YQSHE 
+* You can ask Siteimprove questions in the #cop-siteimprove slack channel: https://stanfordwebservices.slack.com/archives/C020B6YQSHE 
 
 ## 6. Tag site with "SWS Managed"
 If we have a retainer for the site, we want to track the score for the site. This way, if we see a downward trend we can inform the site owner.
