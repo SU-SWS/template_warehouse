@@ -2,7 +2,7 @@ Use this to create a story ticket for checking and noting changes in Siteimprove
 
 This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github.
 
-**Ticket naming**: A11y|SI: Track Siteimprove Issues for <project_name>
+**Ticket naming**: A11y|SI: <project_name> Siteimprove Issue Tracking
 
 Thank you for taking the time to fill this out. You can delete these instructions.
 
