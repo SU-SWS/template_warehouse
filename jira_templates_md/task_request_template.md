@@ -2,7 +2,8 @@ This template provides guidelines for describing work in a Jira ticket. Not all 
 
 This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github.
 
-Thank you for taking the time to fill this out.
+Thank you for taking the time to fill this out. You can delete these instructions.
+
 
 ## Description
 
