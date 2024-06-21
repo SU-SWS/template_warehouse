@@ -26,7 +26,7 @@ Are there designs, mockups, examples, or similar work to reference?
 
 ### Definition of done
 
-What work needs to be completed?
+What needs to be completed to close this ticket?
 
 #### Accessibility checks
 * No new HTML warnings or errors
