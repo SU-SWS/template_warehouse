@@ -1,12 +1,13 @@
 Use this to create a story ticket for checking and noting changes in Siteimprove over time.
-This template is located in the [SU-SWS/template_warehouse]([url](https://github.com/SU-SWS/template_warehouse)) on Github.
 
-Thank you for taking the time to fill this out.
+This template is located in the [SU-SWS/template_warehouse]([url](https://github.com/SU-SWS/template_warehouse)) on Github.
 
 **Ticket naming**: A11y|SI: Track Siteimprove Issues for <project_name>
 
+Thank you for taking the time to fill this out. You can delete these instructions.
+
 ## Level of SWS support:
-Note that in all cases, SWS will continue to monitor Si scores. 
+Note that all sites have Siteimprove monitoring. 
 
 ### Support options include:
 * No help
@@ -20,6 +21,7 @@ See Accessibility Checking process for client sites - https://stanford.atlassian
 
 ### Site Accessibility Liaison:
 * Often this is the site owner.
+* Confirm that they have an account on Siteimprove.
 
 ### SWS contacts:
 
