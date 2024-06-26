@@ -26,10 +26,15 @@ Steps to reproduce the behavior:
 1. Scroll down to '....'
 1. See error
 
-### Expected behavior - Definition of done
+### Expected behavior
 When implemented correctly, what do you expect to happen?
 Give a clear and concise description.
 
+#### Definition of done
+What are the criteria for closing this ticket?
+* Have it reviewed by \_person\_
+* Ensure \_XYZ\_ functionality
+* Ensure it meets \_standard\_
 
 ### Suggestions for resolution
 any tips, recommendations, LMGTFY URLs, that might help with a fix?
