@@ -32,9 +32,9 @@ Give a clear and concise description.
 
 #### Definition of done
 What are the criteria for closing this ticket?
-* Have it reviewed by \_person\_
-* Ensure \_XYZ\_ functionality
-* Ensure it meets \_standard\_
+* Have it reviewed by _person_
+* Ensure _XYZ_ functionality
+* Ensure it meets _standard_
 
 ### Suggestions for resolution
 any tips, recommendations, LMGTFY URLs, that might help with a fix?
