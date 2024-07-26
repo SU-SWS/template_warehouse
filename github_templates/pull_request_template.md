@@ -31,7 +31,7 @@
 - [ ] **HTML validation**: Does any new functionality [pass HTML validation](https://validator.w3.org/nu/)? 
 - [ ] **Cross-browser testing**: Has [cross-browser testing](https://sws-devguide.stanford.edu/front-end/testing/cross-browser-testing) been performed?
 - [ ] **Visual regression testing**: Has [automated visual regression testing](https://sws-devguide.stanford.edu//front-end/testing/automated-visual-regression-testing) been performed?
-- [ ] **Accessibility testing**: Have you verified functionity using [Accessibility Evaluation Quick Checks](https://docs.google.com/document/d/1P3DcZzQ7UuHASNbBhuzoFq_bz4tNglajHYNpgvRBBTY/edit)?
+- [ ] **Accessibility testing**: Have you verified functionality using [Accessibility Evaluation Quick Checks](https://docs.google.com/document/d/1P3DcZzQ7UuHASNbBhuzoFq_bz4tNglajHYNpgvRBBTY/edit)?
 
 If you need assistance with any of these, please create a [QA request ticket](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)
 
