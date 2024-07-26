@@ -28,12 +28,12 @@
 - Is there a config:export in this PR that changes the config sync directory?
 
 ## Front End Validation
-- [ ] Design is approved by @ user?
-- [ ] HTML validation: Is the markup using the appropriate semantic tags and [passes validation](https://validator.w3.org/nu/)? Or, [QA request ticket created](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)?
-- [ ] Cross-browser testing: Has been performed? Or, [QA request ticket created](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)?
-- [ ] Visual regression testing: Has been performed? Or, [QA request ticket created](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)?
-- [ ] Automated accessibility: Scans performed? Or, [QA request ticket created](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)?
-- [ ] Manual accessibility: Manually tested? Or, [QA request ticket created](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)?
+- [ ] **HTML validation**: Does any new functionality [pass HTML validation](https://validator.w3.org/nu/)? 
+- [ ] **Cross-browser testing**: Has [cross-browser testing](https://sws-devguide.stanford.edu/front-end/testing/cross-browser-testing) been performed?
+- [ ] **Visual regression testing**: Has [automated visual regression testing](https://sws-devguide.stanford.edu//front-end/testing/automated-visual-regression-testing) been performed?
+- [ ] **Accessibility testing**: Have you verified functionity using [Accessibility Evaluation Quick Checks](https://docs.google.com/document/d/1P3DcZzQ7UuHASNbBhuzoFq_bz4tNglajHYNpgvRBBTY/edit)?
+
+If you need assistance with any of these, please create a [QA request ticket](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)
 
 ## Backend / Functional Validation
 ### Code
