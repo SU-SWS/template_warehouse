@@ -30,7 +30,7 @@ See Accessibility Checking process for client sites - https://stanford.atlassian
 
 ## Project links & info
 
-* Harvest Category: 
+* Harvest Project & Task: 
 * Si Dashboard: 
 * A11y tracking report: (link to spreadsheet)
 * Jira board: 
