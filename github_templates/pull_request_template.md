@@ -28,12 +28,13 @@
 - Is there a config:export in this PR that changes the config sync directory?
 
 ## Front End Validation
-- [ ] **HTML validation**: Does any new functionality [pass HTML validation](https://validator.w3.org/nu/)? 
+If you need assistance with front end validation, please create a [QA request ticket](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)
+
+- [ ] **HTML validation**: Does all new functionality [pass HTML validation](https://validator.w3.org/nu/)?
+- [ ] **Automated Accessibility testing**: Does all new functionality pass [Siteimprove Browser Extension](https://www.siteimprove.com/integrations/browser-extensions/)
+- [ ] **Manual Accessibility testing**: Have you verified functionality using [Accessibility Evaluation Quick Checks](https://docs.google.com/document/d/1P3DcZzQ7UuHASNbBhuzoFq_bz4tNglajHYNpgvRBBTY/edit)?
 - [ ] **Cross-browser testing**: Has [cross-browser testing](https://sws-devguide.stanford.edu/front-end/testing/cross-browser-testing) been performed?
 - [ ] **Visual regression testing**: Has [automated visual regression testing](https://sws-devguide.stanford.edu//front-end/testing/automated-visual-regression-testing) been performed?
-- [ ] **Accessibility testing**: Have you verified functionality using [Accessibility Evaluation Quick Checks](https://docs.google.com/document/d/1P3DcZzQ7UuHASNbBhuzoFq_bz4tNglajHYNpgvRBBTY/edit)?
-
-If you need assistance with any of these, please create a [QA request ticket](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates/QA_request_template.txt)
 
 ## Backend / Functional Validation
 ### Code
@@ -61,7 +62,10 @@ If you need assistance with any of these, please create a [QA request ticket](ht
 - Anyone who should be notified? (`@mention` them here)
 
 # Resources
-- Automated Accessibility Testing: [Siteimprove](https://siteimprove.stanford.edu/)
+- Automated Accessibility Testing:
+  - [Siteimprove Browser Extension](https://www.siteimprove.com/integrations/browser-extensions/)
+  - [SWS Accessibility Testing Resources](https://sws-devguide.stanford.edu/front-end/testing/accessibility-testing/accessibility-testing-resources)
+- Accessibility Scanning: [Siteimprove](https://siteimprove.stanford.edu/)
 - Manual Accessibility Testing Script [SWS Accessibility Process and Checklist](https://docs.google.com/document/d/1ZXJ9RIUNXsS674ow9j3qJ2g1OAkCjmqMXl0Gs8XHEPQ/edit?usp=sharing)
 - HTML Validation for one URL: [HTML Validator](https://validator.w3.org/)
 - HTML Validation for multiple URLs: [Bulk W3C Validator](https://www.bulkseotools.com/bulk-w3c-validator.php)
