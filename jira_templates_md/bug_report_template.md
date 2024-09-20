@@ -8,18 +8,18 @@ Thank you for taking the time to create a bug report.
 ## Description
 Give a clear and concise description of the bug.
 
-* **Date**:
-* **Time**:
-* **URL(s)**:
+* **Date**: 
+* **Time**: 
+* **URL(s)**: 
 
-**Severity Assessment total**: **0**
+**Severity assessment total**: **0**
 
 Provide total from the list below.
 
 ### Screenshots/recordings
 Add screenshots to help explain the problem.  [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) does a great job recording screen interaction
 
-### To Reproduce
+### To reproduce
 Steps to reproduce the behavior:
 1. Go to '...'
 1. Click on '....'
@@ -30,7 +30,7 @@ Steps to reproduce the behavior:
 When implemented correctly, what do you expect to happen?
 Give a clear and concise description.
 
-#### Definition of done
+#### Acceptance criteria
 What are the criteria for closing this ticket?
 * Have it reviewed by _person_
 * Ensure _XYZ_ functionality
@@ -40,12 +40,12 @@ What are the criteria for closing this ticket?
 any tips, recommendations, LMGTFY URLs, that might help with a fix?
 
 
-### Process Improvement
+### Process improvement
 * Is this bug due to something missing in our process?
 * Is this an "Escaped bug"? That is, it was missed in testing and is now in production? Client reported?
 * Can we improve our process to avoid this bug in the future?
 
-### Severity Assessment
+### Severity assessment
 This rubric helps the team assess the relative importance of this ticket. If the answer is *Yes* or *Maybe*, enter an appropriate value in that line of the table. When you're done, enter the total in the *Severity Assessment total* field above.
 
 * _ pts__  Issue
@@ -62,13 +62,13 @@ This rubric helps the team assess the relative importance of this ticket. If the
 * _____ Is this issue time-sensitive? (+2 points)
 * _____ (For internal team assessment) Will this issue cause an increase in support tickets? (+3 points)
 
-### Customer Information
+### Customer information
 If this was customer reported, we'd like to let the customer know when it is fixed.
 * Customer Name:
 * Customer Email:
 
 ### Accessibility 
-#### Standards Information
+#### Standards information
 If this is an accessibility issue, describe the level of violation or issues encountered.
 * HTML Validation: Error, warning, notice:
 * WCAG 2.0 A, WCAG 2.0 AA:
