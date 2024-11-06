@@ -1,10 +1,12 @@
-Use this to create a story ticket for support with maintaining accessible content.
+Use this template to create a story ticket for support with maintaining accessible content.
 
 This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github.
 
 **Ticket naming**: A11y: [project_name] Accessibility support
 
 Thank you for taking the time to fill this out. It provides needed context. You can delete these instructions.
+
+---
 
 ## Level of SWS support:
 Note that all sites have Siteimprove monitoring. 
