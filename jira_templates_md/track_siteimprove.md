@@ -1,3 +1,4 @@
+# This template has been deprecated. Please see [sws_a11y_support.md](https://github.com/SU-SWS/template_warehouse/blob/master/jira_templates_md/sws_a11y_support.md)
 Use this to create a story ticket for checking and noting changes in Siteimprove over time.
 
 This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github.
