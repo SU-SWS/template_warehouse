@@ -2,7 +2,7 @@ Use this to create a story ticket for support with maintaining accessible conten
 
 This template is located in the [SU-SWS/template_warehouse](https://github.com/SU-SWS/template_warehouse) on Github.
 
-**Ticket naming**: A11y: <project_name> Accessibility support
+**Ticket naming**: A11y: [project_name] Accessibility support
 
 Thank you for taking the time to fill this out. It provides needed context. You can delete these instructions.
 
@@ -21,11 +21,11 @@ See Accessibility Checking process for client sites - https://stanford.atlassian
 
 * Time commitment for accessibility: Ex. 3 hours per month.
 * Float: (link to project on Float)
-* Harvest: (Link to project on Harvest. Remember to check verify access.)
+* Harvest: (Link to project on Harvest. Confirm access.)
 
 ## Contacts:
 
-### Site Accessibility Liaison:
+### Site Accessibility Liaison(s):
 * Often this is the site owner.
 * Confirm that they have an account on Siteimprove.
 
@@ -47,4 +47,4 @@ See Accessibility Checking process for client sites - https://stanford.atlassian
 
 * Prod URL: 
 * Build URL: (With site getting rebuilt, this is the site where the development happens)
-* Test URL: (If Si is not scanning prod, this is the site that's getting scanned.)
+* Test URL: 
