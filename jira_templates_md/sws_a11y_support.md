@@ -9,13 +9,19 @@ Thank you for taking the time to fill this out. It provides needed context. You 
 ## Level of SWS support:
 Note that all sites have Siteimprove monitoring. 
 
-### Support options include:
+### Support options
 * No help - this is a one-time request.
 * Facilitated help - SWS will fix minor issues and, when necessary, meet with content editors to help fix bigger issues and discuss best practices.
 * Comprehensive support - When SWS is responsible for the majority of site building, SWS will provide updates,
   fix minor issues, and meet with site owners to address bigger issues.
 
 See Accessibility Checking process for client sites - https://stanford.atlassian.net/wiki/spaces/SWS/pages/edit-v2/124563847
+
+### Time commitment
+
+* Time commitment for accessibility: Ex. 3 hours per month.
+* Float: (link to project on Float)
+* Harvest: (Link to project on Harvest. Remember to check verify access.)
 
 ## Contacts:
 
