@@ -9,7 +9,7 @@ Thank you for taking the time to create a bug report.
 Give a clear and concise description of the bug.
 
 * **Date**: [Date]
-* **Time**: [Time]
+* **Time**: 
 * **URL(s)**:
   * [URL]
 
@@ -82,9 +82,9 @@ If this is an accessibility issue, describe the level of violation or issues enc
 #### Severity
 How quickly should this be addressed:
 
-* 1 - Urgent - talk to client ASAP
-* 2 - Address soon - bring up with PM or team
-* 3 - Not urgent - prioritize in sprint planning
+[] - Urgent - talk to client ASAP
+[] - Address soon - bring up with PM or team
+[] - Not urgent - prioritize in sprint planning
 
 ### Device specific information:
 If this bug is specific to a device or technology, give its specs. Repeat this information if there are multiple devices.
@@ -92,7 +92,7 @@ If this bug is specific to a device or technology, give its specs. Repeat this i
 * OS: [MacOS, Windows, iOS, Android]
 * Browser & Version [Chrome, Firefox, Safari]
 * Testing technology:
-  * [Siteimprove App, Siteimprove browser extension, Keyboard, VoiceOver, NVDA, JAWS, Axe, Arc, etc.]
+  * [Siteimprove App, Siteimprove browser extension, HeadingsMap, Keyboard, VoiceOver, NVDA, JAWS, Axe, Arc, etc.] 
 
 ### Additional context
 * Related PRs: 
