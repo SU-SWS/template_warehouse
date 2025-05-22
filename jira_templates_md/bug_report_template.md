@@ -82,9 +82,9 @@ If this is an accessibility issue, describe the level of violation or issues enc
 #### Severity
 How quickly should this be addressed:
 
-[] - Urgent - talk to client ASAP
-[] - Address soon - bring up with PM or team
-[] - Not urgent - prioritize in sprint planning
+- [ ] - Urgent - talk to client ASAP
+- [ ] - Address soon - bring up with PM or team
+- [x] - Not urgent - prioritize in sprint planning
 
 ### Device specific information:
 If this bug is specific to a device or technology, give its specs. Repeat this information if there are multiple devices.
