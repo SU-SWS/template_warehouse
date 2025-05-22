@@ -8,7 +8,7 @@ Thank you for taking the time to create a bug report.
 ## Description
 Give a clear and concise description of the bug.
 
-* **Date**: [Date]
+* **Date**: [Date] 
 * **Time**: 
 * **URL(s)**:
   * [URL]
