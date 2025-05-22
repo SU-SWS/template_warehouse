@@ -8,9 +8,10 @@ Thank you for taking the time to create a bug report.
 ## Description
 Give a clear and concise description of the bug.
 
-* **Date**: 
-* **Time**: 
-* **URL(s)**: 
+* **Date**: [Date]
+* **Time**: [Time]
+* **URL(s)**:
+  * [URL]
 
 **Severity assessment total**: **0**
 
@@ -21,7 +22,8 @@ Add screenshots to help explain the problem.  [Nimbus](https://chrome.google.com
 
 ### To reproduce
 Steps to reproduce the behavior:
-1. Go to '...'
+1. Go to 
+   1. [URL]
 1. Click on '....'
 1. Scroll down to '....'
 1. See error
@@ -70,8 +72,9 @@ If this was customer reported, we'd like to let the customer know when it is fix
 ### Accessibility 
 #### Standards information
 If this is an accessibility issue, describe the level of violation or issues encountered.
-* HTML Validation: Error, warning, notice: 
-* WCAG A, AA, AAA; ARIA: 
+* HTML Validation: [Error, warning, notice] 
+* WCAG: [A, AA, AAA, Best practice]
+* ARIA: 
 
 #### Severity
 How quickly should this be addressed:
@@ -83,9 +86,10 @@ How quickly should this be addressed:
 ### Device specific information:
 If this bug is specific to a device or technology, give its specs. Repeat this information if there are multiple devices.
 * Device: [PC laptop, Mac Laptop, mobile phone]
-* OS: [MacOS, Windows]
-* Browser & Version [Chrome Version]
-* Testing technology: [Siteimprove App, Siteimprove browser extension, Keyboard, VoiceOver, NVDA, JAWS, Axe, Arc, etc.]
+* OS: [MacOS, Windows, iOS, Android]
+* Browser & Version [Chrome, Firefox, Safari]
+* Testing technology:
+  * [Siteimprove App, Siteimprove browser extension, Keyboard, VoiceOver, NVDA, JAWS, Axe, Arc, etc.]
 
 ### Additional context
 * Related PRs: 
