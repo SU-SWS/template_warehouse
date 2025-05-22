@@ -18,7 +18,10 @@ Give a clear and concise description of the bug.
 Provide total from the list below.
 
 ### Screenshots/recordings
-Add screenshots to help explain the problem.  [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) does a great job recording screen interaction
+Add screenshots to help explain the problem.  To screenshot in Chrome: 
+1. Cmd+Shift+I to open Developer Tools
+2. Cmd+Shift+P and type "screenshot."
+
 
 ### To reproduce
 Steps to reproduce the behavior:
