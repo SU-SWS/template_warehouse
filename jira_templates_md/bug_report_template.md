@@ -32,9 +32,9 @@ Give a clear and concise description.
 
 #### Acceptance criteria
 What are the criteria for closing this ticket?
-* Have it reviewed by _person_
-* Ensure _XYZ_ functionality
-* Ensure it meets _standard_
+* Have it reviewed by another [person]
+* Ensure it performs [functionality]
+* Ensure it meets [standard]
 
 ### Suggestions for resolution
 any tips, recommendations, LMGTFY URLs, that might help with a fix?
@@ -64,14 +64,14 @@ This rubric helps the team assess the relative importance of this ticket. If the
 
 ### Customer information
 If this was customer reported, we'd like to let the customer know when it is fixed.
-* Customer Name:
-* Customer Email:
+* Customer Name: 
+* Customer Email: 
 
 ### Accessibility 
 #### Standards information
 If this is an accessibility issue, describe the level of violation or issues encountered.
-* HTML Validation: Error, warning, notice:
-* WCAG 2.0 A, WCAG 2.0 AA:
+* HTML Validation: Error, warning, notice: 
+* WCAG A, AA, AAA; ARIA: 
 
 #### Severity
 How quickly should this be addressed:
@@ -82,12 +82,12 @@ How quickly should this be addressed:
 
 ### Device specific information:
 If this bug is specific to a device or technology, give its specs. Repeat this information if there are multiple devices.
-* Device: [e.g. MacBook Pro, iPhone6, etc.]
-* OS: [e.g. MacOS Catalina, version 10.15.4]
-* Browser & Version [e.g. Chrome Version 80.0.3987.163]
-* Testing technology: [e.g. VoiceOver, NVDA, JAWS, Siteimprove, Axe, Arc, etc.]
+* Device: [PC laptop, Mac Laptop, mobile phone]
+* OS: [MacOS, Windows]
+* Browser & Version [Chrome Version]
+* Testing technology: [Siteimprove App, Siteimprove browser extension, Keyboard, VoiceOver, NVDA, JAWS, Axe, Arc, etc.]
 
 ### Additional context
-* Related PRs:
-* Anyone to be notified? @mention
-* Any other context about the problem?
+* Related PRs: 
+* Anyone to be notified? [name]
+* Any other context about the problem? 
