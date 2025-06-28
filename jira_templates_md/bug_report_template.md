@@ -37,7 +37,7 @@ Give a clear and concise description.
 
 #### Acceptance criteria
 What are the criteria for closing this ticket?
-* Have it reviewed by another [person]
+* Have it reviewed by [person]
 * Ensure it performs [functionality]
 * Ensure it meets [standard]
 
@@ -82,9 +82,9 @@ If this is an accessibility issue, describe the level of violation or issues enc
 #### Severity
 How quickly should this be addressed:
 
-- [ ] - Urgent - talk to client ASAP
-- [ ] - Address soon - bring up with PM or team
-- [x] - Not urgent - prioritize in sprint planning
+* Urgent - talk to client ASAP
+* Address soon - bring up with PM or team
+* ✅ Not urgent - prioritize in sprint planning
 
 ### Device specific information:
 If this bug is specific to a device or technology, give its specs. Repeat this information if there are multiple devices.
@@ -92,7 +92,12 @@ If this bug is specific to a device or technology, give its specs. Repeat this i
 * OS: [MacOS, Windows, iOS, Android]
 * Browser & Version [Chrome, Firefox, Safari]
 * Testing technology:
-  * [Siteimprove App, Siteimprove browser extension, HeadingsMap, Keyboard, VoiceOver, NVDA, JAWS, Axe, Arc, etc.] 
+  * Siteimprove app and browser extension,
+  * [HeadingsMap](https://www.accessibility-developer-guide.com/setup/helper-tools/browser-extensions/headingsmap/),
+  * Color contrast checker:  [WCAG Color contrast checker](https://chromewebstore.google.com/detail/plnahcmalebffmaghcpcmpaciebdhgdf?utm_source=item-share-cb)
+  * Keyboard,
+  * Screen reader: VoiceOver, NVDA, JAWS,
+  * Other automated checkers: Axe, Arc, etc. 
 
 ### Additional context
 * Related PRs: 
