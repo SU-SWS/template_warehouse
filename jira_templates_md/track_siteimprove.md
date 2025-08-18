@@ -31,7 +31,8 @@ See Accessibility Checking process for client sites - https://stanford.atlassian
 
 ## Project links & info
 
-* Harvest Project & Task: 
+* Harvest Project & Task:
+* Hosting: (What service is hosting this site? ex. Stanford Sites)
 * Si Dashboard: 
 * A11y tracking report: (link to spreadsheet)
 * Jira board: 
