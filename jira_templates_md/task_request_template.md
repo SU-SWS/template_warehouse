@@ -7,7 +7,12 @@ Thank you for taking the time to fill this out. You can delete these instruction
 
 ## Description
 
-Provide a clear and concise description of the type of work expected
+Provide a clear and concise description of the type of work expected. 
+
+If this is an accessibility request
+
+* Preface the title (Summary) with A11y: or A11y | Topic:
+* Add label: Accessibility
 
 ### Type of work
 
@@ -20,10 +25,10 @@ Provide a clear and concise description of the type of work expected
 
 Are there designs, mockups, examples, or similar work to reference?
 
-* **Webpage URL**:
-* **Designs**:
-* **Screenshot**:
-* **Examples**:
+* **Webpage URL**: 
+* **Designs**: 
+* **Screenshot**: 
+* **Examples**: 
 
 ### Definition of done
 
@@ -34,9 +39,11 @@ What needs to be completed to close this ticket?
 * No new automated accessessibility warnings or errors
 * Follows SWS [accessibility conventions for semantic and logical HTML](https://sws-devguide.stanford.edu/front-end/accessibility-conventions)
 
-### Related Jira ticket(s) or PR(s):
+### Related 
 
-Any specific tools or techniques to use:
+* Jira ticket(s): 
+* PR(s): 
+* Specific tools or techniques to use: 
 
 ### Environment
 
