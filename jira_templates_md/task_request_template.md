@@ -9,10 +9,15 @@ Thank you for taking the time to fill this out. You can delete these instruction
 
 Provide a clear and concise description of the type of work expected. 
 
+Remember to fill out the Start Date and Due Date fields. 
+
 If this is an accessibility request
 
 * Preface the title (Summary) with A11y: or A11y | Topic:
 * Add label: Accessibility
+
+
+
 
 ### Type of work
 
