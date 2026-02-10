@@ -60,6 +60,10 @@ Name of Github branch to start from and merged into.
 
 Is there development environment where this is to be deployed?
 
+### Bill to
+
+* Harvest project: _Name of project in Harvest - Task_
+
 ### Other information
 
 Are there other projects or people involved?
