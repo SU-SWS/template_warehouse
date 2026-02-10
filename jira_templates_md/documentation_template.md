@@ -23,6 +23,7 @@ _Where do you want this documentation to happen? Remove any that do not apply_
 * Google Docs: _What's the link to the directory or document?_
 * Confluence: _What section or page in confluence?_
 * ServiceNow: _Where?_
+* Stanford Sites User Guide: _Where in the menu?_
 
 ### Supporting information
 [SWS Style Guide](https://docs.google.com/document/d/1CSNwDlPnr_LSv170ywpzuM8xv3d5XlUHbVi5TsopeFM/edit?usp=sharing)
@@ -35,5 +36,9 @@ _Provide URL or attach images of related mockups._
 
 #### Anyone else to consult or notify?
 * (@mention here)
+
+### Bill to
+
+* Harvest project: _Name of project in Harvest - Task_
 
 ### Other information
