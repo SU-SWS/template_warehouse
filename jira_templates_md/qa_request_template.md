@@ -13,7 +13,8 @@ For example, is this to check specific work, or for a whole site or release?
 
 ### Related Links:
 Add links to related tickets, PRs, documents, sites, etc.?
-
+* **Google Drive Folder**:
+* **Confluence Space**: 
 
 ### Release version, expected time and date:
 What is the release version, or date and time for this effort?
