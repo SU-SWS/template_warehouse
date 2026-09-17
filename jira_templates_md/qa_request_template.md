@@ -10,6 +10,9 @@ Add links to mockups, a site, or specific pages or items on a site.
 ### Scope
 For example, is this to check specific work, or for a whole site or release?
 
+* Check new work on: [Component, page or list of pages, etc]
+* Scan whole site for a launch
+* Compare previous to new site for a release
 
 ### Related Links:
 Add links to related tickets, PRs, documents, sites, etc.?
@@ -22,6 +25,19 @@ What is the release version, or date and time for this effort?
 
 ### Tools and techniques to use:
 Any special tools or techniques to consider?
+
+#### For checking accessibility of design
+
+* (Design Styles Checklist)[https://docs.google.com/spreadsheets/d/1fyKKxo2TjCDUz0ZldISMnpakxUFDSA3e0pDMv4gV3IU/edit?pli=1&gid=307785073#gid=307785073] - for an in-depth design review
+* Other ___________
+
+#### For checking accessibility of code:
+
+* **Siteimprove** - for a whole site review of a launched site
+* **Total Validator** - for a whole site review of an un-launched site
+* **Axe Auditor** - For new work that needs in-depth review
+* **(ODA Quick checks)[https://docs.google.com/spreadsheets/d/1fyKKxo2TjCDUz0ZldISMnpakxUFDSA3e0pDMv4gV3IU/edit?pli=1&gid=261846409#gid=261846409]** - For cursory review of new work
+* Other ______________
 
 
 ### Other information
