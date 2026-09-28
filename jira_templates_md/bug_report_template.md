@@ -46,9 +46,10 @@ any tips, recommendations, LMGTFY URLs, that might help with a fix?
 
 
 ### Process improvement
-* Is this bug due to something missing in our process?
-* Is this an "Escaped bug"? That is, it was missed in testing and is now in production? Client reported?
-* Can we improve our process to avoid this bug in the future?
+
+* Client reported?
+* Is this an "Escaped bug"? That is, it was missed in testing and is now in production?
+* Can we improve our process to avoid this bug in the future? If yes, how?
 
 ### Severity assessment
 This rubric helps the team assess the relative importance of this ticket. If the answer is *Yes* or *Maybe*, enter an appropriate value in that line of the table. When you're done, enter the total in the *Severity Assessment total* field above.
